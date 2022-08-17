@@ -2,7 +2,7 @@
 
 let gridSize = 24; // spacing to check flow
 // lower = more info but slower
-let ignoreThresh = 32; // ignore movements below this level
+let ignoreThresh = 48; // ignore movements below this level
 
 let flow; // calculated flow for entire image
 let previousPixels; // copy of previous frame
